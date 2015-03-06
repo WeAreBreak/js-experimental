@@ -1,0 +1,28 @@
+{
+  "name": "js-experimental",
+  "version": "0.1.0",
+  "description": "The js-experimental js-compiler module adds experimental features to JavaScript, which can be activated with the --experimental flag when using inqc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ajuhos@github.com/WeAreBreak/js-experimental.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmapscript",
+    "compiler",
+    "experimental"
+  ],
+  "author": "We Are Break <ajuhos@we-are-break.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeAreBreak/js-experimental/issues"
+  },
+  "homepage": "https://github.com/WeAreBreak/js-experimental",
+  "dependencies": {
+    "js-parser-utils": "^1.0.0"
+  }
+}
